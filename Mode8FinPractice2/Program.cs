@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\lino-\OneDrive\Рабочий стол\Новая папка (3)";
+            string path = @"\";
             Console.WriteLine($"Размер каталога:{GetFolderSize(path)} байт"); 
         }
 
